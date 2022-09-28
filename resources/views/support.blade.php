@@ -56,7 +56,7 @@
         </div>
 
     </div>
-    <div style="margin-top: 50px;" x-on:click.outside="chatBox = false" class="p-2" x-show="chatBox" id="chat-box">
+    <div x-on:click.outside="chatBox = false" class="p-2" x-show="chatBox" id="chat-box">
         <div class="p-2 chat-box d-flex flex-column justify-content-end shadow">
             <div class="d-flex flex-column p-2" id="chat-content">
 
