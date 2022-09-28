@@ -41,7 +41,7 @@
             <i class="icon bi bi-telephone flex-shrink-0"></i>
             <div>
               <h3>Call Us</h3>
-              <p>+1 5589 55488 55</p>
+              <p>08431226483</p>
             </div>
           </div>
         </div><!-- End Info Item -->

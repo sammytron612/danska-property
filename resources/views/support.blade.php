@@ -7,8 +7,8 @@
             <p>Our support <span>hours</span></p>
         </div>
         <div class="pb-5 d-flex flex-column align-items-center">
-            <h6>Weekdays 8am-8pm 019191918932</h6>
-            <h6>Weekends 8am-2pm 983939389</h6>
+            <h6>Weekdays 8am-8pm 08431226483</h6>
+            <h6>Weekends 8am-2pm 08431226483</h6>
             <h6>Live Chat 8am-8pm</h6>
             <button x-on:click="startChat" style="margin-left:0" class="btn-book-a-table px-3 py-1" type="submit">Live Chat</button>
         </div>
