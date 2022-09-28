@@ -55,22 +55,19 @@
             </div>
         </div>
 
+    </div>
+    <div style="margin-top: 50px;" x-on:click.outside="chatBox = false" class="p-2" x-show="chatBox" id="chat-box">
+        <div class="p-2 chat-box d-flex flex-column justify-content-end shadow">
+            <div class="d-flex flex-column p-2" id="chat-content">
 
-        <div x-on:click.outside="chatBox = false" class="p-2" x-show="chatBox" id="chat-box">
-            <div class="p-2 chat-box d-flex flex-column justify-content-end shadow">
-                <div class="d-flex flex-column p-2" id="chat-content">
-                    <!--<span class="chat-agent px-3 py-1">jlkjljl</span>-->
-                    <!--<span class="chat-user px-3 py-1">jskds</span>-->
-                </div>
-                <div x-show="whisper" id="whisper" style="font-size: 10px" class="text-center">An agent is typing...</div>
-                <div x-show="awaitingAgent" id="awaiting" style="font-size: 10px" class="text-center">An agent will be with you shortly..</div>
-                <div class="form-group input-group d-flex w-100 mt-3 p-2 align-items-center">
-                    <input x-model="chatText" class="rounded form-control mr-1" placeholder="Type message..." type="text">
-                    <button class="ml-2 btn btn-danger" x-on:click="send">Send</button>
-                </div>
+            </div>
+            <div x-show="whisper" id="whisper" style="font-size: 10px" class="text-center">An agent is typing...</div>
+            <div x-show="awaitingAgent" id="awaiting" style="font-size: 10px" class="text-center">An agent will be with you shortly..</div>
+            <div class="form-group input-group d-flex w-100 mt-3 p-2 align-items-center">
+                <input x-model="chatText" class="rounded form-control mr-1" placeholder="Type message..." type="text">
+                <button class="ml-2 btn btn-danger" x-on:click="send">Send</button>
             </div>
         </div>
-
     </div>
 
   </section><!-- End Contact Section -->
@@ -90,7 +87,7 @@
             agent: null,
             nameAsked: false,
             intro: false,
-            names: ['Darren', 'Lisa', 'James'],
+            names: ['Darren', 'Lisa', 'James','S'],
 
             open(){
                 this.chatBox = true
@@ -142,7 +139,7 @@
 
                     delay(4000).then(() => {
                         this.whisper = false
-                        this.agent = this.names[Math.floor(Math.random() * 2)]
+                        this.agent = this.names[Math.floor(Math.random() * 3)]
                         this.agentMessage('Hello my name is ' + this.agent)
                         this.whisper = true
                         delay(2000).then(() => {
