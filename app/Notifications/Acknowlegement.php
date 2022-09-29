@@ -41,7 +41,7 @@ class Acknowlegement extends Notification
                     ->line($this->data['title'])
                     ->line($this->data['support'])
                     ->line($this->data['support1'])
-                    ->line('We will be in touch as soon as possible.');
+                    ->line($this->data['intouch']);
     }
 
     /**

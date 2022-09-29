@@ -25,7 +25,8 @@ class MessageController extends Controller
             $data = ['name' => $name,
                 'title' => 'Thanks for your enquiry!',
                 'support' => '',
-                'support1' => ""
+                'support1' => "",
+                'intouch' => 'We will be in touch as soon as possible.'
         ];
             Notification::route('mail', [
                 $email => $name,
@@ -42,7 +43,8 @@ class MessageController extends Controller
             $data = ['name' => $name,
                 'title' => 'Thanks for your enquiry to book a demo!',
                 'support' => '',
-                'support1' => ""
+                'support1' => "",
+                'intouch' => 'We will be in touch as soon as possible.'
         ];
 
             Notification::route('mail', [
@@ -59,7 +61,8 @@ class MessageController extends Controller
             $data = ['name' => $name,
                 'title' => 'Thanks for contacting support!',
                 'support' => "We cannot seem to find the account number/email you specified!",
-                'support1' => "Could you please re-submit your request please."
+                'support1' => "Could you please re-submit your request please.",
+                'intouch' => ''
         ];
 
             Notification::route('mail', [
