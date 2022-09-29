@@ -58,8 +58,8 @@ class MessageController extends Controller
             $number = rand(10000,19999);
             $data = ['name' => $name,
                 'title' => 'Thanks for contacting support!',
-                'support' => "A support ticket has been raised. Your ticket number is $number",
-                'support1' => "You can monitor the progress of your support ticket in your portal."
+                'support' => "We cannot seem to find the account number/email you specified!",
+                'support1' => "Could you please re-submit your request please."
         ];
 
             Notification::route('mail', [
