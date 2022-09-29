@@ -4,9 +4,12 @@
     <div class="container">
       <div class="row justify-content-between gy-5">
         <div class="col-lg-5 order-2 order-lg-1 d-flex flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
-          <h2 data-aos="fade-up">Property management for<br>landlords and property managers</h2>
-          <p data-aos="fade-up" data-aos-delay="100">Our aim is to empower landlords and property managers to deliver repairs, compliance, voids and resident services through a simple work order management platform and a network of trade professionals.</p>
-          <p data-aos="fade-up" data-aos-delay="100">Manage work orders, track repairs and hire contractors in just a few clicks. Reduce repair costs and make proactive decisions with an intuitive dashboard and in-depth reporting.</p>
+          <h2 data-aos="fade-up">Property management for<br>owners and property managers</h2>
+          <p data-aos="fade-up" data-aos-delay="100">Our ojective is to enable property owners and property managers the abilty to deliver repairs seamlessly.
+            Hire vetted tradesman, monitor and track repairs at the click of a button.
+          Enabling you to reduce repair costs and saving you time to manage your property portfollio.</p>
+
+            <p data-aos="fade-up" data-aos-delay="100">Stay compliant with relevant regulatory and legislative laws. We can insure that you never miss a statutory safety check because you can schedule in all checks that are needed weeks, months, even years in advance.</p>
         <div class="" data-aos="fade-up" data-aos-delay="200">
             <a href="{{route('demo')}}" class="btn-book-a-table">Book a Demo</a>
         </div>
@@ -149,7 +152,7 @@
                   <div class="testimonial-content">
                     <p>
                       <i class="bi bi-quote quote-icon-left"></i>
-                      I have been using Danska propery services for Three month. It is so easy to report and track a reapir
+                      I have been using Danska propery services for Three months. It is so easy to report and track a reapir
                       <i class="bi bi-quote quote-icon-right"></i>
                     </p>
                     <h3>Jonathan Simpson</h3>
