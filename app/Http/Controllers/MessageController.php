@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Notifications\Acknowlegement;
-use App\Notifications\sendMe;
+use App\Notifications\SendMe;
 use Notification;
 
 class MessageController extends Controller
@@ -81,7 +81,7 @@ class MessageController extends Controller
 
             Notification::route('mail', [
                 'kevin.wilson@kevinlwilson.co.uk',
-            ])->notify(new sendMe($data));
+            ])->notify(new SendMe($data));
 
             return;
     }
