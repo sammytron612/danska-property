@@ -3,12 +3,12 @@
     <div class="row row-cols-2 gy-5 gx-4">
 
         <div class="col">
-            <h1 class="d-none d-md-block display-3">Effortlessly improve your operations.</h1>
+            <h1 class="d-none d-md-block display-3">Reactive Repair Reporting for Students.</h1>
             <h3 class="d-block d-md-none">Effortlessly improve your operations.</h3>
-            <p>Manage work orders, track repairs and hire contractors in just a few clicks. Improve your tenant experience and reduce repair costs with an intuitive dashboard and in-depth reporting.</p>
+            <p>Our system focuses exclusively on managing reactive repairs and proactive maintenance while centralising and streamlining the process to improve oversight and manageability. It allows for the reporting and resolution of reactive repairs and proactive maintenance in both communal and personal spaces as needed.</p>
         </div>
         <div>
-            <img data-aos="fade-up" data-aos-delay="200" class="rounded img-fluid" src="/assets/img/operations.webp">
+            <img data-aos="fade-up" class="rounded img-fluid" src="/assets/img/student.jpg">
         </div>
         <div class="col">
             <img data-aos="fade-right" class="img-fluid" src="/assets/img/quote.webp" alt="sml_prod_core_repair_diag_01" class="show-tablet   image-left-break">
@@ -17,14 +17,14 @@
         <div class="col">
             <div class="heading">
                 <h3>
-                    Get maintenance work done, quickly<span class="primary-green">.</span>
+                    Resident education<span class="primary-green">.</span>
                 </h3>
             </div>
 
             <div class="mt-3 copy">
-                <p><span> Our Software is an end-to-end maintenance solution designed with both landlords and tenants in mind. </span></p>
+                <p><span>Many students have never been independent before university and sometimes need guidance on basic responsibilities. Where appropriate, students will be shown how to resolve an issue themselves, reducing the number of repair reports to the student accommodation team. </span></p>
                 <p><span>Those working in social housing will know that robust works order and contractor management capabilities are essential in any management system. We meet these demands in every respect, making it as easy to manage an entire portfolio of repairs as it is to manage those of a single building.. </span></p>
-                <p><span>Improve your time to solve any maintenance issue, and keep your tenants happy. </span></p>
+                <p><span>Improve your time to solve any maintenance issue.</span></p>
             </div>
         </div>
 

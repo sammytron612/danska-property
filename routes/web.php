@@ -57,9 +57,17 @@ Route::get('/gyms', function () {
     return view('gyms');
 })->name('gyms');
 
+Route::get('/care-homes', function () {
+    return view('care-homes');
+})->name('careHomes');
+
 Route::get('/support', function () {
     return view('support');
 })->name('support');
+
+Route::get('/student-accomodation', function () {
+    return view('student-housing');
+})->name('student');
 
 Route::get('/news', function () {
     return view('news');

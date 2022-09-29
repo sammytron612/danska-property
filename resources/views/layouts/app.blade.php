@@ -66,8 +66,8 @@
                 <li class="dropdown"><a href=""><span>Social Housing</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                     <ul>
                     <li><a href="{{route('social-housing')}}">Property Managers</a></li>
-                    <li><a href="{{route('social-housing')}}">Student Accomodation</a></li>
-                    <li><a href="{{route('social-housing')}}">Care Homes</a></li>
+                    <li><a href="{{route('student')}}">Student Accomodation</a></li>
+                    <li><a href="{{route('careHomes')}}">Care Homes</a></li>
                     </ul>
                 </li>
                 <li><a href="{{route('privateLandlord')}}">Private Landlords</a></li>

@@ -8,10 +8,10 @@
             <p>Maintain your facilities to the highest standards and keep operating at maximum capacity..</p>
         </div>
         <div>
-            <img class="rounded img-fluid" src="/assets/img/operations.webp">
+            <img data-aos="fade-up" data-aos-delay="200" class="rounded img-fluid" src="/assets/img/hotel.jpg">
         </div>
         <div class="col">
-            <img class="img-fluid" src="/assets/img/quote.webp" alt="sml_prod_core_repair_diag_01" class="show-tablet   image-left-break">
+            <img data-aos="fade-right" class="img-fluid" src="/assets/img/quote.webp" alt="sml_prod_core_repair_diag_01" class="show-tablet   image-left-break">
         </div>
 
         <div class="col">
@@ -21,7 +21,7 @@
                 </h3>
             </div>
 
-            <div class="copy">
+            <div class="mt-3 copy">
                 <p><span>
                     Deliver better, faster repairs without the worry of capacity constraints — and a supply chain that's capable of handling unforeseen events, such as Covid-19. </span></p>
                 <p><span>Hire the right contractor for the right job - all in a single platform. </span></p>
@@ -34,7 +34,7 @@
             <p>Take control of your bottom-line with a streamlined repairs process, and get the best value-for-money by accessing a marketplace of verified contractors.</p>
         </div>
         <div class="col">
-            <img class="rounded img-fluid" src="/assets/img/repairs.webp">
+            <img data-aos="fade-left" class="rounded img-fluid" src="/assets/img/repairs.webp">
         </div>
     </div>
 
