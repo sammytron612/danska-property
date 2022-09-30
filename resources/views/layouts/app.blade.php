@@ -11,6 +11,12 @@
         $description = "Our ojective is to enable property owners and property managers the abilty to deliver repairs seamlessly.";
     @endphp
 @endif
+@if(!isset($description))
+    @php
+        $description = $title;
+    @endphp
+@endif
+
   <title>{{$title}}</title>
   <meta name="description" content="{{$description}}}}">
   <meta content="Dansk Property Services" name="keywords">
