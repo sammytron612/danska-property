@@ -75,6 +75,12 @@
           <div class="col-xl-6 form-group">
             <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
           </div>
+          <div class="col-xl-6 form-group">
+            <input type="text" class="form-control" name="company" id="company" placeholder="Company">
+          </div>
+          <div class="col-xl-6 form-group">
+            <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone number" required>
+          </div>
         </div>
         <div class="form-group">
           <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
