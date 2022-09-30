@@ -1,5 +1,5 @@
 
-@extends('layouts.app')
+@extends('layouts.app', ['title' => 'Contact', 'description' => 'Data driven property management.'])
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="hero d-flex align-items-center section-bg">
     <div class="container">

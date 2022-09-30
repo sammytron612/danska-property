@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app', ['title' => 'Contact', 'description' => 'Latest news and insights from Danska Property Services'])
 <div style="margin-top:130px;" class="container">
     <div class="section-header">
         <h2>News</h2>

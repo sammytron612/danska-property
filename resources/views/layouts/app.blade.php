@@ -5,9 +5,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-
-  <title>Danska Services</title>
-  <meta content="Danska Property Services" name="description">
+@if(!isset($title))
+    @php $title = "Danska Property Services" @endphp
+@endif
+  <title>{{$title}}</title>
+  <meta name="description" content="{{$description}}}}">
   <meta content="Dansk Property Services" name="keywords">
   <meta name="description" content="Our ojective is to enable property owners and property managers the abilty to deliver repairs seamlessly.">
 

@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app', ['title' => 'Contact', 'description' => 'Find all about us.'])
 <!-- ======= About Section ======= -->
 <section id="about" class="about">
     <div style="margin-top:60px;" class="container">
