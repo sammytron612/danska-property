@@ -9,6 +9,7 @@
   <title>Danska Services</title>
   <meta content="Danska Property Services" name="description">
   <meta content="Dansk Property Services" name="keywords">
+  <meta name="description" content="Our ojective is to enable property owners and property managers the abilty to deliver repairs seamlessly.">
 
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png">
