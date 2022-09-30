@@ -11,7 +11,7 @@
 
             <p data-aos="fade-up" data-aos-delay="100">Stay compliant with relevant regulatory and legislative laws. We can insure that you never miss a statutory safety check because you can schedule in all checks that are needed weeks, months, even years in advance.</p>
         <div class="" data-aos="fade-up" data-aos-delay="200">
-            <a href="{{route('demo')}}" class="btn-book-a-table">Book a Demo</a>
+            <a style="margin-left:0" href="{{route('demo')}}" class="mt-lg-5 btn-book-a-table">Book a Demo</a>
         </div>
         </div>
         <div class="col-lg-5 order-1 order-lg-2 text-center text-lg-start">
