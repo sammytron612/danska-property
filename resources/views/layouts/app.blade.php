@@ -13,6 +13,7 @@
   <title>{{$title}}</title>
   <meta name="description" content="{{$description}}}}">
   <meta content="Dansk Property Services" name="keywords">
+  <meta name=”robots” content="index, follow">
 
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png">
