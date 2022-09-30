@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app', ['title' => 'Client Login'])
 <section x-data="page()" id="client" class="book-a-table mt-5">
     <div class="container" data-aos="fade-up">
 

@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app', ['title' => 'Pubs and Restaurants'])
 <div style="margin-top:150px" class="container">
     <div class="row row-cols-2 gy-5 gx-4">
 

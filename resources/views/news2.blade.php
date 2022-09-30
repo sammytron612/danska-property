@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app', ['title' => 'News Article'])
 <div style="margin-top:150px;" class="container">
     <div id="carbon" class="row row-cols-1 row-cols-lg-2">
         <div class="col order-2 order-lg-1 mt-4 mt-lg-0">
