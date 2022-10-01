@@ -6,6 +6,23 @@
       </div>
     <div class="row row-cols-1 row-cols-lg-3">
         <div class="col pt-5" data-aos="fade-up">
+            <a href="{{route('news1')}}" class="">
+                <img class="w-100 img-fluid rounded-t" src="/assets/img/smoke.webp" >
+                <div style="font-weight:400; font-size:13px" class="text-sm text-black py-3">Insights</div>
+                <h4 class="text-black">Updates to smoke and carbon monoxide alarm regulations</h4>
+                <div class="preview text-black"><p>Smoke and carbon monoxide alarm regulations are changing - here's what you need to know.</p></div>
+                <div style="font-weight:200; font-size:13px" class="text-sm text-black py-3">September 2022</div>
+            </a>
+        </div>
+
+        <div class="col pt-5" data-aos="fade-up">
+            <img class="w-100 img-fluid rounded-t" src="/assets/img/go-live.png">
+            <div style="font-weight:300; font-size:13px" class="text-sm py-3 text-black">News</div>
+            <h4 class="text-black">Go live date</h4>
+            <div class="text-black"><p>Danska Property Services is proud to anounce the Go-Live date of its brand new services on Monday 3rd October 2022.</p></div>
+            <div style="font-weight:200; font-size:13px" class="text-sm text-black py-3">September 2022</div>
+        </div>
+        <div class="col pt-5" data-aos="fade-up">
             <a href="{{route('news4')}}" class="">
                 <img class="w-100 img-fluid rounded-t" src="/assets/img/weak-pound.jpg" >
                 <div style="font-weight:400; font-size:13px" class="text-sm text-black py-3">Insights</div>
@@ -18,7 +35,7 @@
         <div class="col pt-5" data-aos="fade-up">
             <img class="w-100 img-fluid rounded-t" src="/assets/img/management/julie.webp">
             <div style="font-weight:300; font-size:13px" class="text-sm py-3">News</div>
-            <h4 class="">Danska property welcomes Julie Anderson as head of sales & Marketing</h4>
+            <h4 class="">Danska Property Services welcomes Julie Anderson as head of sales & Marketing</h4>
             <div class="preview"><p>We welcome Julie to Danska property. With over 10 Years experience in sales, Julie will be driving the business forward and building the brand.</p></div>
             <div style="font-weight:200; font-size:13px" class="text-sm text-black py-3">September 2022</div>
         </div>
@@ -32,15 +49,7 @@
                 <div style="font-weight:200; font-size:13px" class="text-sm text-black py-3">September 2022</div>
             </a>
         </div>
-        <div class="col pt-5" data-aos="fade-up">
-            <a href="{{route('news1')}}" class="">
-                <img class="w-100 img-fluid rounded-t" src="/assets/img/smoke.webp" >
-                <div style="font-weight:400; font-size:13px" class="text-sm text-black py-3">Insights</div>
-                <h4 class="text-black">Updates to smoke and carbon monoxide alarm regulations</h4>
-                <div class="preview text-black"><p>Smoke and carbon monoxide alarm regulations are changing - here's what you need to know.</p></div>
-                <div style="font-weight:200; font-size:13px" class="text-sm text-black py-3">September 2022</div>
-            </a>
-        </div>
+
         <div class="col pt-5" data-aos="fade-up">
             <a href="{{route('news2')}}" class="">
                 <img class="w-100 img-fluid rounded-t" src="/assets/img/disrepair.jpg" >
