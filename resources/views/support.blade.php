@@ -1,4 +1,4 @@
-@extends('layouts.app', ['title' => 'Support', 'description' => 'Get in touch with our support professionals.'])
+@extends('layouts.app', ['title' => 'Support | Get in touch with one of our support professioanls', 'description' => 'Get in touch with our support professionals.'])
 
 <section style="margin-top: 60px" x-data="page()" id="support" class="contact mt-5">
     <div class="container">

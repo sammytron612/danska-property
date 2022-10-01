@@ -1,4 +1,4 @@
-@extends('layouts.app', ['title' => 'About', 'description' => 'Find all about us.'])
+@extends('layouts.app', ['title' => 'About | We aim to empower landlords and property managers', 'description' => 'Find all about us.'])
 <!-- ======= About Section ======= -->
 <section id="about" class="about">
     <div style="margin-top:60px;" class="container">
