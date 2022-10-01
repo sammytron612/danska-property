@@ -8,10 +8,10 @@
             <p>Manage work orders, track repairs and hire contractors in just a few clicks. Improve your tenant experience and reduce repair costs with an intuitive dashboard and in-depth reporting.</p>
         </div>
         <div>
-            <img data-aos="fade-up" data-aos-delay="200" class="rounded img-fluid" src="/assets/img/operations.webp">
+            <img data-aos="fade-up" alt="Operations" data-aos-delay="200" class="rounded img-fluid" src="/assets/img/operations.webp">
         </div>
         <div class="col">
-            <img data-aos="fade-right" class="img-fluid" src="/assets/img/quote.webp" alt="sml_prod_core_repair_diag_01" class="show-tablet   image-left-break">
+            <img data-aos="fade-right" alt="Quote" class="img-fluid" src="/assets/img/quote.webp" alt="sml_prod_core_repair_diag_01" class="show-tablet   image-left-break">
         </div>
 
         <div class="col">
@@ -33,7 +33,7 @@
             <p>Take control of your bottom-line with a streamlined repairs process, and get the best value-for-money by accessing a marketplace of verified contractors.</p>
         </div>
         <div class="col">
-            <img data-aos="fade-left" class="rounded img-fluid" src="/assets/img/repairs.webp">
+            <img data-aos="fade-left" alt="Repair" class="rounded img-fluid" src="/assets/img/repairs.webp">
         </div>
     </div>
 

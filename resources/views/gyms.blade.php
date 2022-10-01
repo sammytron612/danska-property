@@ -11,7 +11,7 @@
             <img data-aos="fade-up" data-aos-delay="200" class="rounded img-fluid" src="/assets/img/gyms.jpg">
         </div>
         <div class="col">
-            <img data-aos="fade-right" class="img-fluid" src="/assets/img/gym.png" alt="union" class="show-tablet image-left-break">
+            <img data-aos="fade-right" class="img-fluid" alt="Gym" src="/assets/img/gym.png" alt="union" class="show-tablet image-left-break">
         </div>
 
         <div class="col">
@@ -32,7 +32,7 @@
             <p>Take control of your bottom-line with a streamlined repairs process, and get the best value-for-money by accessing a marketplace of verified contractors.</p>
         </div>
         <div class="col">
-            <img data-aos="fade-left" class="rounded img-fluid" src="/assets/img/repairs.webp">
+            <img data-aos="fade-left" class="rounded img-fluid" alt="Quote" src="/assets/img/repairs.webp">
         </div>
     </div>
 

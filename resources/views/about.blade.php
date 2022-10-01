@@ -10,14 +10,14 @@
 
       <div class="row gy-4">
         <div class="col-lg-7 order-2">
-            <img class="d-none d-md-block img-fluid position-relative about-img" src="assets/img/workers2.jpeg" data-aos="fade-up" data-aos-delay="150">
+            <img class="d-none d-md-block img-fluid position-relative about-img" src="assets/img/workers2.jpeg" alt="Worker" data-aos="fade-up" data-aos-delay="150">
             <div>
                 <div class="d-flex justify-content-evenly mt-2">
-                    <img style="height:50px" class="mt-3" src="assets/img/laravel.png" data-aos="fade-up" data-aos-delay="150">
-                    <img style="height:50px" class="mt-3" src="assets/img/vue.png" data-aos="fade-up" data-aos-delay="150">
+                    <img style="height:50px" class="mt-3" src="assets/img/laravel.png" data-aos="fade-up" alt="Laravel Logo" data-aos-delay="150">
+                    <img style="height:50px" class="mt-3" src="assets/img/vue.png" data-aos="fade-up" alt="Vue Logo" data-aos-delay="150">
                 </div>
                 <div class="text-center">
-                    <img style="height:50px" class="mt-3" src="assets/img/amazon.png" data-aos="fade-up" data-aos-delay="150">
+                    <img style="height:50px" class="mt-3" src="assets/img/amazon.png" alt="AWS Logo" data-aos="fade-up" data-aos-delay="150">
                 </div>
                 <p class="mt-4">
                     Our cutting edge platform is built on PHP utilizing the Laravel framework and hosted securely on Amazon AWS.
@@ -46,7 +46,7 @@
             </p>
 
             <div class="position-relative mt-4">
-              <img src="assets/img/worker1.png" class="img-fluid" alt="">
+              <img src="assets/img/worker1.png" alt="Worker" class="img-fluid" alt="">
               <!--<a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>-->
             </div>
           </div>
@@ -129,7 +129,7 @@
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
               <div class="chef-member">
                 <div class="member-img">
-                  <img src="assets/img/management/alex.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/management/alex.jpg" alt="CEO" class="img-fluid" alt="">
                 </div>
                 <div class="member-info">
                   <h4>Alex Bastholm</h4>
@@ -142,7 +142,7 @@
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
               <div class="chef-member">
                 <div class="member-img">
-                  <img src="assets/img/management/marc.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/management/marc.jpg" alt="Operations Manager" class="img-fluid" alt="">
                 </div>
                 <div class="member-info">
                   <h4>Marc Bastholm</h4>
@@ -157,7 +157,7 @@
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
               <div class="chef-member">
                 <div class="member-img">
-                  <img src="assets/img/management/julie.webp" class="img-fluid" alt="">
+                  <img src="assets/img/management/julie.webp" alt="Head of Sales" class="img-fluid" alt="">
                 </div>
                 <div class="member-info">
                   <h4>Julie Anderson</h4>

@@ -19,7 +19,7 @@
                 However, three in five residents admitted delay dealing with minor maintenance issues in their own homes.</p>
         </div>
         <div class="col order-1 order-lg-2">
-            <img class="img-fluid rounded" src="/assets/img/adobe.jpeg" data-aos="fade-left">
+            <img class="img-fluid rounded" alt="Maintenance" src="/assets/img/adobe.jpeg" data-aos="fade-left">
         </div>
     </div>
 </div>

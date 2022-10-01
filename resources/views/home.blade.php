@@ -15,8 +15,8 @@
         </div>
         </div>
         <div class="col-lg-7 order-1 order-lg-2 text-center text-lg-start">
-            <img src="assets/img/mac.png" class="d-none d-lg-block img-fluid" alt="" data-aos="zoom-out" data-aos-delay="300">
-            <img src="assets/img/homepage1.png" class="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="300">
+            <img src="assets/img/mac.png" class="d-none d-lg-block img-fluid" alt="Mac Book" data-aos="zoom-out" data-aos-delay="300">
+            <img src="assets/img/homepage1.png" class="img-fluid" alt="Dashboard" data-aos="zoom-out" data-aos-delay="300">
         </div>
       </div>
     </div>
@@ -29,7 +29,7 @@
 
               <div class="col benefit-item d-flex items-center">
 
-                <img style="height:50px;width:50px" src="assets/img/social_housing.webp">
+                <img style="height:50px;width:50px" alt="social housing" src="assets/img/social_housing.webp">
 
                 <div class="copy">
 
@@ -45,7 +45,7 @@
 
               <div class="col benefit-item d-flex items-center">
 
-                <img style="height:50px;width:50px" src="assets/img/private.webp">
+                <img style="height:50px;width:50px" alt="Private Housing" src="assets/img/private.webp">
 
                 <div class="copy">
 
@@ -61,7 +61,7 @@
 
               <div class="col benefit-item d-flex items-center">
 
-                <img style="height:50px;width:50px" src="assets/img/public.webp">
+                <img style="height:50px;width:50px" alt="Public buildinga" src="assets/img/public.webp">
 
                 <div class="copy">
 
@@ -79,7 +79,7 @@
 
               <div class="col benefit-item d-flex items-center">
 
-                <img style="height:50px;width:50px" src="assets/img/hotels.webp">
+                <img style="height:50px;width:50px" alt="Hotels" src="assets/img/hotels.webp">
 
                 <div class="copy">
 
@@ -97,7 +97,7 @@
 
               <div class="col benefit-item d-flex items-center">
 
-                <img style="height:50px;width:50px" src="assets/img/pubs.webp">
+                <img style="height:50px;width:50px" alt="Pubs" src="assets/img/pubs.webp">
 
                 <div class="copy">
 
@@ -115,7 +115,7 @@
 
               <div class="col benefit-item d-flex items-center">
 
-                <img style="height:50px;width:50px" src="assets/img/education.webp">
+                <img style="height:50px;width:50px" alt="Education" src="assets/img/education.webp">
 
                 <div class="copy">
 

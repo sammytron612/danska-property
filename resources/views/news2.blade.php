@@ -35,10 +35,10 @@
         </div>
 
         <div class="col order-1 order-lg-2">
-            <img class="img-fluid rounded" src="/assets/img/disrepair.jpg" data-aos="fade-left">
+            <img class="img-fluid rounded" alt="Disrepair" src="/assets/img/disrepair.jpg" data-aos="fade-left">
             <div class="d-none d-lg-block">
                 <div class="h-25"></div>
-                <img class="img-fluid rounded mt-5" src="/assets/img/flakey.webp" data-aos="fade-up" >
+                <img class="img-fluid  rounded mt-5" alt="Flaky Paint" src="/assets/img/flakey.webp" data-aos="fade-up" >
             </div>
         </div>
     </div>

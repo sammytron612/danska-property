@@ -39,7 +39,7 @@
 
         </div>
         <div class="col order-1 order-lg-2">
-            <img class="img-fluid rounded" src="/assets/img/weak-pound.jpg" data-aos="fade-left">
+            <img class="img-fluid rounded" alt="Weak Pound" src="/assets/img/weak-pound.jpg" data-aos="fade-left">
         </div>
     </div>
 </div>

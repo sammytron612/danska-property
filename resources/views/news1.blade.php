@@ -31,10 +31,10 @@
             <p>Experience frictionless service delivery, with the ability to bulk upload thousands of jobs at once and start addressing repairs backlogs, maintenance issues and remedial action. </p>
         </div>
         <div class="col order-1 order-lg-2">
-            <img class="img-fluid rounded" src="/assets/img/smoke.webp" data-aos="fade-left">
+            <img class="img-fluid rounded" alt="Smoke Alarm" src="/assets/img/smoke.webp" data-aos="fade-left">
             <div class="d-none d-lg-block">
                 <div class="h-25"></div>
-                <img class="img-fluid rounded mt-5" src="/assets/img/carbon.webp" data-aos="fade-up" >
+                <img class="img-fluid rounded mt-5" alt="Monoxide Alarm" src="/assets/img/carbon.webp" data-aos="fade-up" >
             </div>
         </div>
     </div>

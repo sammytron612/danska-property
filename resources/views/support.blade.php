@@ -19,7 +19,7 @@
         @endif
         <div class="row row-cols-1 row-cols-lg-2">
             <div class="d-none d-lg-block col">
-                <img class="img-fluid rounded h-100" src="/assets/img/support.jpg" alt="union" class="show-tablet image-left-break" data-aos="fade-up">
+                <img class="img-fluid rounded h-100" alt="Support Professional" src="/assets/img/support.jpg" alt="union" class="show-tablet image-left-break" data-aos="fade-up">
             </div>
 
             <div class="col" data-aos="zoom-out">

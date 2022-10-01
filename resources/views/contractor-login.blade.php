@@ -8,7 +8,7 @@
 
       <div class="row">
 
-        <div class="col-lg-4 reservation-img" style="background-image: url(assets/img/contractor.jpg);" data-aos="zoom-out" data-aos-delay="200"></div>
+        <div class="col-lg-4 reservation-img" alt="Workman" style="background-image: url(assets/img/contractor.jpg);" data-aos="zoom-out" data-aos-delay="200"></div>
 
         <div class="col-lg-8 reservation-form-bg">
             <div x-cloak x-show="errors" class="row mt-5">
