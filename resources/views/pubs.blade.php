@@ -1,6 +1,6 @@
 @extends('layouts.app', ['title' => 'Pubs and Restaurants'])
 <div style="margin-top:150px" class="container">
-    <div class="row row-cols-2 gy-5 gx-4">
+    <div class="row row-cols-1 row-cols-lg-2 row-cols-2 gy-5 gx-4">
 
         <div class="col">
             <h2 class="d-none d-md-block display-5">The secret ingredient to your repairs and maintenance management.</h2>
