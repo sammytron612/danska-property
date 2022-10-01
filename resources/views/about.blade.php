@@ -46,7 +46,7 @@
             </p>
 
             <div class="position-relative mt-4">
-              <img src="assets/img/worker.png" class="img-fluid" alt="">
+              <img src="assets/img/worker1.png" class="img-fluid" alt="">
               <!--<a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>-->
             </div>
           </div>
