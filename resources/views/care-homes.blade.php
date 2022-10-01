@@ -1,6 +1,6 @@
 @extends('layouts.app', ['title' => 'Care Homes'])
 <div style="margin-top:150px" class="container">
-    <div class="row row-cols-2 gy-5 gx-4">
+    <div class="row row-cols-1 row-cols-lg-2 gy-5 gx-4">
 
         <div class="col">
             <h1 class="d-none d-md-block display-3">Remote Working Made Possible.</h1>
