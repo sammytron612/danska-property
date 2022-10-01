@@ -35,7 +35,7 @@
         <div class="col pt-5" data-aos="fade-up">
             <img class="w-100 img-fluid rounded-t" src="/assets/img/management/julie.webp">
             <div style="font-weight:300; font-size:13px" class="text-sm py-3">News</div>
-            <h4 class="">Danska Property Services welcomes Julie Anderson as head of sales & Marketing</h4>
+            <h4 class="">Danska Property Services welcomes Julie Anderson as head of Sales & Marketing</h4>
             <div class="preview"><p>We welcome Julie to Danska property. With over 10 Years experience in sales, Julie will be driving the business forward and building the brand.</p></div>
             <div style="font-weight:200; font-size:13px" class="text-sm text-black py-3">September 2022</div>
         </div>
