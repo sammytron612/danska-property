@@ -81,6 +81,14 @@ Route::get('/news-article2', function () {
     return view('news2');
 })->name('news2');
 
+Route::get('/news-article3', function () {
+    return view('news3');
+})->name('news3');
+
+Route::get('/news-article4', function () {
+    return view('news4');
+})->name('news4');
+
 Route::get('/book-demo', function () {
     return view('demo');
 })->name('demo');
