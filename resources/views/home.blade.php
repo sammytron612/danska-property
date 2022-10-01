@@ -288,8 +288,6 @@
             <p>Number of jobs resolved</p>
           </div>
         </div><!-- End Stats Item -->
-
-
       </div>
 
     </div>

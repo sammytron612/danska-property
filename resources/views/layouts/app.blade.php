@@ -103,15 +103,11 @@
         </ul>
       </nav><!-- .navbar -->
 
-
-
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
 
     </div>
   </header><!-- End Header -->
-
-
 
 
   <footer id="footer" class="footer">
@@ -155,13 +151,16 @@
             </p>
           </div>
         </div>
-
-        <div class="col-lg-3 col-md-6 footer-links">
-          <h4>Follow Us</h4>
-          <div class="social-links d-flex">
-            <a href="https://twitter.com/danskaprop2022" class="twitter"><i class="bi bi-twitter"></i></a>
-            <a href="https://www.facebook.com/profile.php?id=100086131102819" class="facebook"><i class="bi bi-facebook"></i></a>
-          </div>
+    </div>
+    <div class="row">
+        <div class="col-12 footer-links d-flex justify-content-start justify-content-lg-center">
+            <div>
+                <h4>Follow Us</h4>
+                <div class="social-links d-flex">
+                    <a href="https://twitter.com/danskaprop2022" class="twitter"><i class="bi bi-twitter"></i></a>
+                    <a href="https://www.facebook.com/profile.php?id=100086131102819" class="facebook"><i class="bi bi-facebook"></i></a>
+                </div>
+            </div>
         </div>
 
       </div>
