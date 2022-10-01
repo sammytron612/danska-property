@@ -85,9 +85,9 @@ Route::get('/news-article3', function () {
     return view('news3');
 })->name('news3');
 
-Route::get('/go-live', function () {
-    return view('go-live');
-})->name('go-live');
+Route::get('/news-article3', function () {
+    return view('news3');
+})->name('news3');
 
 
 Route::get('/news-article4', function () {
