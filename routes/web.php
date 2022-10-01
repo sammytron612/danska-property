@@ -73,11 +73,11 @@ Route::get('/news', function () {
     return view('news');
 })->name('news');
 
-Route::get('/news-article1', function () {
+Route::get('/carbon-monoxide', function () {
     return view('news1');
 })->name('news1');
 
-Route::get('/news-article2', function () {
+Route::get('/disrepair', function () {
     return view('news2');
 })->name('news2');
 
@@ -85,12 +85,12 @@ Route::get('/news-article3', function () {
     return view('news3');
 })->name('news3');
 
-Route::get('/news-article3', function () {
+Route::get('/maintenance', function () {
     return view('news3');
 })->name('news3');
 
 
-Route::get('/news-article4', function () {
+Route::get('/weak-pound', function () {
     return view('news4');
 })->name('news4');
 
