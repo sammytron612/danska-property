@@ -33,7 +33,7 @@
             <p class="fst-italic">
               We Have been a succesfull property development company in Denmark and the UK for over 30 years.
               Originally founded in Denmark in 1990 and behind some big name developments in both Denamark and the UK.
-              <p>Last year we expanded into property management offering clients a wide range of services</p>
+              <p>This year we expanding into property management offering clients a wide range of services</p>
               We aim to empower landlords and property managers with a platform to manage their properties and a marketplace of local trade talent to deliver repairs and maintenance work. The result? Better services than ever before, delivered by a dynamic supply chain that creates opportunities in the communities our clients serve.
             </p>
             <ul>
@@ -161,7 +161,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Julie Anderson</h4>
-                  <span style="color:black;font-weight: 600;">Head of Sales and Talent Aquisition</span>
+                  <span style="color:black;font-weight: 600;">Head of Sales and Marketing</span>
                   <p>Julie has not been with us long but With over 10 Years experience in sales Julie is focusing on driving sales and building the Danska profile.</p>
                 </div>
               </div>
