@@ -1,4 +1,4 @@
-@extends('layouts.app', ['title' => 'Home | Our ojective is to enable property owners and property managers the abilty to deliver repairs seamlessly'])
+@extends('layouts.app', ['title' => 'Home | Here at Danska Property Services our aim is to enable property owners and property managers the abilty to deliver repairs seamlessly'])
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="hero d-flex align-items-center section-bg">
     <div class="container">

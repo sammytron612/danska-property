@@ -1,4 +1,4 @@
-@extends('layouts.app', ['title' => 'About | We aim to empower landlords and property managers', 'description' => 'Find all about us.'])
+@extends('layouts.app', ['title' => 'About | We aim to empower landlords and property managers', 'description' => 'Here at Danska Property Services we aim to empower landlords and property managers with a platform to manage their properties.'])
 <!-- ======= About Section ======= -->
 <section id="about" class="about">
     <div style="margin-top:60px;" class="container">
