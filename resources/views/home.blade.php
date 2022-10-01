@@ -14,7 +14,7 @@
             <a style="margin-left:0" href="{{route('demo')}}" class="mt-lg-5 btn-book-a-table">Book a Demo</a>
         </div>
         </div>
-        <div class="col-lg-5 order-1 order-lg-2 text-center text-lg-start">
+        <div class="col-lg-7 order-1 order-lg-2 text-center text-lg-start">
             <img src="assets/img/mac.png" class="d-none d-lg-block img-fluid" alt="" data-aos="zoom-out" data-aos-delay="300">
             <img src="assets/img/homepage1.png" class="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="300">
         </div>
