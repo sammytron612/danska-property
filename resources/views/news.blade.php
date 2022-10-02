@@ -19,7 +19,7 @@
             <img class="w-100 img-fluid rounded-t" alt="live logo"  src="/assets/img/go-live.png">
             <div style="font-weight:300; font-size:13px" class="text-sm py-3 text-black">News</div>
             <h4 class="text-black">Go live date</h4>
-            <div class="text-black"><p>Danska Property Services is proud to announce the Go-Live date of its brand new services on Monday 3rd October 2022.</p></div>
+            <div class="text-black"><p>Danska Property Services is proud to announce the Go-Live date of its brand new services on Monday 5th September 2022.</p></div>
             <div style="font-weight:200; font-size:13px" class="text-sm text-black py-3">September 2022</div>
         </div>
         <div class="col pt-5" data-aos="fade-up">
