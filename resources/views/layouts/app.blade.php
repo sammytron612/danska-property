@@ -92,7 +92,7 @@
                     <ul>
                     <li><a href="{{route('pubs')}}">Pubs & Restaurants</a></li>
                     <li><a href="{{route('hotels')}}">Hotels</a></li>
-                    <li><a href="{{route('gyms')}}">Gyms & Sorts Facilities</a></li>
+                    <li><a href="{{route('gyms')}}">Gyms & Sports Facilities</a></li>
                     </ul>
                 </ul>
             </li>
