@@ -51,7 +51,7 @@
 
                   <a href="{{route('privateLandlord')}}">
 
-                  <div class="text-black"><b>Private Rental Sector</b><br>Better manage tenant requests to improve the speed and service of repairs and maintenance</div>
+                  <div class="text-black"><b>Private Rental Sector</b><br>Better manage tenant requests to improve the speed and service of repairs and maintenance on your property portfollio.</div>
                 </a>
                 </div>
 
@@ -69,7 +69,7 @@
 
                   <a href="{{route('social-housing')}}">
 
-                  <div class="text-black"><b>Public Buildings</b><br>The all-in-one solution to maintaining local buildings using local contractors</div>
+                  <div class="text-black"><b>Public Buildings</b><br>The all-in-one solution to maintaining local buildings using local contractors and tradesman.</div>
                 </a>
                 </div>
 
@@ -87,7 +87,7 @@
 
                   <a href="{{route('hotels')}}">
 
-                  <div class="text-black"><b>Hotels</b><br>Find qualified contractors for every hotel location to ensure the buildings and their facilities are maintained to the highest standards</div>
+                  <div class="text-black"><b>Hotels</b><br>Find qualified contractors and tradesman for every location to ensure the buildings and their facilities are maintained to the highest standards.</div>
                 </a>
                 </div>
 
@@ -105,7 +105,7 @@
 
                   <a href="{{route('pubs')}}">
 
-                  <div class="text-black"><b>Pubs &amp; Restaurants</b><br>Avoid downtime and <br> keep assets running</div>
+                  <div class="text-black"><b>Pubs &amp; Restaurants</b><br>Avoid downtime and <br>keep your business up and running.</div>
                 </a>
                 </div>
 
@@ -123,7 +123,7 @@
 
                   <a href="{{route('social-housing')}}">
 
-                  <div class="text-black"><b>Education</b><br>A digital solution that can be tailored to maintaining your facilities amongst hectic schedules</div>
+                  <div class="text-black"><b>Education</b><br>A digital solution that can be tailored to maintaining your facilities amongst your busy schedule.</div>
                 </a>
                 </div>
 
