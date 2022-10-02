@@ -13,7 +13,7 @@
       @endif
       <div class="row">
         <div class="col-6 text-center">
-            <img src="assets/img/homepage.png" alt="Dashboard" class="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="300">
+            <img src="assets/img/homepage1.png" alt="Dashboard" class="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="300">
         </div>
 
 
