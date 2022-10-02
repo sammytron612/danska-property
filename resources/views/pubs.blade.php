@@ -1,4 +1,4 @@
-@extends('layouts.app', ['title' => 'Pubs and Restaurants'])
+@extends('layouts.app', ['title' => 'Pubs and Restaurants','noIndex' => true])
 <div style="margin-top:150px" class="container">
     <div class="row row-cols-1 row-cols-lg-2 gy-5 gx-4">
 

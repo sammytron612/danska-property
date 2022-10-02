@@ -1,4 +1,4 @@
-@extends('layouts.app', ['title' => 'Contractor Login'])
+@extends('layouts.app', ['title' => 'Contractor Login','noIndex' => true])
 <section  x-data="page()" id="contractor" class="book-a-table">
     <div class="container" data-aos="fade-up">
 

@@ -5,6 +5,9 @@
   <meta charset="utf-8">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+@if(isset($noIndex))
+    <meta name="googlebot" content="noindex">
+@endif
 
 @if(!isset($title))
     @php $title = "Danska Property Services";
