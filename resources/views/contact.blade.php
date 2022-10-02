@@ -1,4 +1,4 @@
-@extends('layouts.app', ['title' => 'Contact | Get in touch with us and book a demo', 'description' => 'Get in touch with us.'])
+@extends('layouts.app', ['title' => 'Contact | Get in touch with us and book a demo', 'description' => 'Get in touch with us and book a demo.'])
 <section id="contact" class="contact mt-5">
     <div class="container" data-aos="fade-up">
 
