@@ -152,6 +152,8 @@
               <strong>Mon-Fri: 9AM</strong> - 5PM<br>
               Saturday & Sunday: Closed
             </p>
+            <h4>Support Hours</h4>
+            <strong>Mon-Sun: 8AM</strong> - 8PM<br>
           </div>
         </div>
     </div>
