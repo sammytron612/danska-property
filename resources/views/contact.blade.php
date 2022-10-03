@@ -41,7 +41,7 @@
             <i class="icon bi bi-telephone flex-shrink-0"></i>
             <div>
               <h3>Call Us</h3>
-              <p>08431226483</p>
+              <p>01782438091</p>
             </div>
           </div>
         </div><!-- End Info Item -->

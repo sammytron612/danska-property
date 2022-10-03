@@ -138,7 +138,7 @@
           <div>
             <h4>Contact</h4>
             <p>
-              <strong>Phone:</strong> 08431226483<br>
+              <strong>Phone:</strong> 01782438091<br>
               <strong>Email:</strong> enquiries@danska-property.co.uk<br>
             </p>
           </div>
