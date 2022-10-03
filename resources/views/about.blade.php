@@ -88,7 +88,7 @@
                     <!--<i class="bi bi-clipboard-data"></i>-->
                     <i class="fa-regular fa-heart"></i>
                     <h4>We're Human</h4>
-                    <p>We’re diverse and embracing of all cultures. We champion each other's success. We’re open and honest in our communications.</p>
+                    <p>We listen to all our clients and contarctors. We’re open and honest in our drive to provide the best possible service for clients.</p>
                   </div>
                 </div><!-- End Icon Box -->
 
@@ -96,7 +96,7 @@
                   <div class="icon-box d-flex flex-column justify-content-center align-items-center">
                     <i class="fa fa-users" aria-hidden="true"></i>
                     <h4>We're Together</h4>
-                    <p>We’re humble, we listen to and respect our teammates. We challenge each other, but when a decision is made, we all get behind it and deliver.</p>
+                    <p>We’re humble, we listen to and respect everyone. We challenge each other, with a contstant desire to improve.</p>
                   </div>
                 </div><!-- End Icon Box -->
 
@@ -104,7 +104,7 @@
                   <div class="icon-box d-flex flex-column justify-content-center align-items-center">
                     <i class="bi bi-inboxes"></i>
                     <h4>We're Client-centric</h4>
-                    <p>We are focussed on delivering the best outcome for our customers and our contractors. We believe the impossible is possible, through dedication, focus and hard work.</p>
+                    <p>We are focussed on delivering the best outcome for our customers and our contractors. We believe the impossible is possible, through dedication, focus and hard work by all.</p>
                   </div>
                 </div><!-- End Icon Box -->
 
