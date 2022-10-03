@@ -103,7 +103,7 @@
                 <div class="col-xl-4" data-aos="fade-up" data-aos-delay="400">
                   <div class="icon-box d-flex flex-column justify-content-center align-items-center">
                     <i class="bi bi-inboxes"></i>
-                    <h4>We're Client-centric</h4>
+                    <h4>We're client-centric</h4>
                     <p>We are focussed on delivering the best outcome for our customers and our contractors. We believe the impossible is possible, through dedication, focus and hard work by all.</p>
                   </div>
                 </div><!-- End Icon Box -->
