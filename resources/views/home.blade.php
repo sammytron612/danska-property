@@ -9,7 +9,9 @@
             Hire vetted tradesman, monitor and track repairs at the click of a button.
           Enabling you to reduce repair costs and saving you time to manage your property portfollio.</p>
 
+            <p data-aos="fade-up">Our Emergency Services provide you with access to on-demand contractors and reliable maintenance work. If an occupier was to report a repair in the middle of the night and the repair meets your criteria for an emergency, a contractor will be assigned to attend the property and carry out the repair ASAP.</p>
             <p data-aos="fade-up" data-aos-delay="100">Stay compliant with relevant regulatory and legislative laws. We can insure that you never miss a statutory safety check because you can schedule in all checks that are needed weeks, months, even years in advance.</p>
+
         <div class="" data-aos="fade-up" data-aos-delay="200">
             <a style="margin-left:0" href="{{route('demo')}}" class="mt-lg-5 btn-book-a-table">Book a Demo</a>
         </div>
