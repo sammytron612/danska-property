@@ -5,7 +5,7 @@
         <div class="col">
             <h1 class="d-none d-md-block display-3">Take the sweat out of repairs and maintenance.</h1>
             <h3 class="d-block d-md-none">Take the sweat out of repairs and maintenance</h3>
-            <p>A complete solution with all the gain and none of the pain.</p>
+            <p>A complete solution with all the gain and no pain.</p>
         </div>
         <div>
             <img data-aos="fade-up" data-aos-delay="200" class="rounded img-fluid" src="/assets/img/gyms.jpg">
