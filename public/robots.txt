@@ -1,2 +1,14 @@
 User-agent: *
-Disallow:
+Disallow: /carbon-monoxide
+Disallow: /disrepair
+Disallow: /news-article3
+Disallow: /maintenance
+Dissalow: /weak-pound
+Dissalow: /hotels
+Dissalow: /contractor-login
+Dissalow: /client-login
+Dissalow: /social-housing
+Dissalow: /pubs
+Dissalow: /gyms
+Dissalow: /care-homes
+Dissalow: /student-housing
