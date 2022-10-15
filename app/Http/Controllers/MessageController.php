@@ -72,6 +72,24 @@ class MessageController extends Controller
             return redirect()->back()->with('message', 'Your Support request has been sent');
             }
 
+            if($type == 'job')
+            {
+
+
+                $data = ['name' => $name,
+                    'title' => 'Thanks for Application!',
+                    'support' => "We will review your information and get back to you!",
+                    'support1' => "",
+                    'intouch' => ''
+            ];
+
+                Notification::route('mail', [
+                    $email => $name,
+                ])->notify(new Acknowlegement($data));
+
+                return redirect()->back()->with('message', 'Your Application has been sent');
+                }
+
     }
 
     public function messageMe($type,$name,$subject,$message,$email)

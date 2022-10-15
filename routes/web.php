@@ -98,6 +98,10 @@ Route::get('/book-demo', function () {
     return view('demo');
 })->name('demo');
 
+Route::get('/careers', function () {
+    return view('careers');
+})->name('careers');
+
 Route::post('/post-message', [App\Http\Controllers\MessageController::class, 'message'])->name('postMessage');
 
 

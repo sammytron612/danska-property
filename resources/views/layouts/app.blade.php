@@ -98,6 +98,7 @@
             </li>
             <li><a class="{{Request::segment(1) == "contact" ? 'active' : '' }}" href="{{route('contact')}}">Contact</a></li>
             <li><a class="{{Request::segment(1) == "support" ? 'active' : '' }}" href="{{route('support')}}">Support</a></li>
+            <li><a class="{{Request::segment(1) == "careers" ? 'active' : '' }}" href="{{route('careers')}}">Careers</a></li>
 
             <div class="d-flex justify-content-center">
             <a class="d-inline btn-book-a-table" href="{{route('contractor')}}">Contractor Login</a>

@@ -6,6 +6,15 @@
       </div>
     <div class="row row-cols-1 row-cols-lg-3">
         <div class="col pt-5" data-aos="fade-up">
+            <a href="{{route('careers')}}" class="">
+                <img class="w-100 img-fluid rounded-t" alt="Smoke Alarm" src="/assets/img/hiring2.jpg" >
+                <div style="font-weight:400; font-size:13px" class="text-sm text-black py-3">News</div>
+                <h4 class="text-black">We're Hiring</h4>
+                <div class="preview text-black"><p>Want to join the team? Check out our latest vacancies.</p></div>
+                <div style="font-weight:200; font-size:13px" class="text-sm text-black py-3">October 2022</div>
+            </a>
+        </div>
+        <div class="col pt-5" data-aos="fade-up">
             <a href="{{route('news1')}}" class="">
                 <img class="w-100 img-fluid rounded-t" alt="Smoke Alarm" src="/assets/img/smoke.webp" >
                 <div style="font-weight:400; font-size:13px" class="text-sm text-black py-3">Insights</div>
