@@ -1,4 +1,4 @@
-@extends('layouts.app', ['title' => 'News Article'])
+@extends('layouts.app', ['title' => 'Careers'])
 <div style="margin-top:150px;" class="container">
     @if(session()->has('message'))
     <div class="alert alert-success alert-dismissible fade show" role="alert">
