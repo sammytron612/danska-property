@@ -65,6 +65,12 @@
 
         </div>
 
+    </div>
+
+    <div>
+
+        <h4 class="mt-5 text-center">What are you waiting for?</h4>
+        <p class="text-center">Fill in the form below and we will get back to you.</p>
 
     </div>
 
