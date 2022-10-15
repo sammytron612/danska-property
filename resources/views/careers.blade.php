@@ -10,7 +10,7 @@
         <h2>Careers</h2>
         <p>We're<span> Hiring</span></p>
     </div>
-    <h6 class="display-6 text-left">We are currently hiring for Customer Service Agents and Sales. </h6>
+    <h6 class="display-6 text-center">We are currently hiring for Customer Service Agents and Sales Lead Generators. </h6>
     <div id="carbon" class="row row-cols-1 row-cols-lg-2">
         <div class="col order-2 order-lg-1">
 
